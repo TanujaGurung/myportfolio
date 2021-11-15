@@ -106,7 +106,7 @@ p {
 
 /* Section top bottom gap */
 .section-gap {
-  padding: 4.5rem 0;
+  padding: 3.5rem 0;
 }
 
 @media screen and (max-width:767px) {
@@ -128,7 +128,7 @@ h3.global-title {
   font-size: 40px;
   line-height: 45px;
   color: #16191e;
-  margin-bottom: 50px;
+  margin-bottom: 10px;
   text-transform: capitalize;
 }
 
@@ -265,6 +265,7 @@ section .section-title {
 #footer ul.social li:hover a i {
 	font-size:30px;
 	margin-top:-10px;
+  color:blue;
 }
 #footer ul.social li a,
 #footer ul.quick-links li a{
