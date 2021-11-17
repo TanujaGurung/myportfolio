@@ -300,3 +300,15 @@ section .section-title {
     margin-bottom: 10px;
 }
 }
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+.btn:hover {
+  background-color: blue;
+  color:black
+}
